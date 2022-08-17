@@ -1,0 +1,14 @@
+﻿Build started 01/10/2017 3:32:57 PM.
+     1>Project "F:\ \Assignment\csc c++\soalan a\soalan A\soalan A.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\soalan A.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "soalan cuba.cpp"
+         soalan cuba.cpp
+     1>f:\ \assignment\csc c++\soalan a\soalan a\soalan cuba.cpp(12): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+     1>f:\ \assignment\csc c++\soalan a\soalan a\soalan cuba.cpp(14): error C3861: 'setprecision': identifier not found
+     1>Done Building Project "F:\ \Assignment\csc c++\soalan a\soalan A\soalan A.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.12

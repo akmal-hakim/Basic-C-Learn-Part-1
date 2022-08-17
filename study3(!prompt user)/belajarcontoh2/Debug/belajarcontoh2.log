@@ -1,0 +1,31 @@
+﻿Build started 27/09/2017 11:15:44 AM.
+     1>Project "F:\ \belajarcontoh2\belajarcontoh2\belajarcontoh2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\belajarcontoh2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt project2.cpp
+         project2.cpp
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2059: syntax error : 'bad suffix on number'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2143: syntax error : missing ';' before 'constant'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2146: syntax error : missing ';' before identifier 'n'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2065: 'n' : undeclared identifier
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2146: syntax error : missing ';' before identifier 'Saturday'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2065: 'Saturday' : undeclared identifier
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2065: 'you' : undeclared identifier
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2146: syntax error : missing ';' before identifier 'need'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2065: 'need' : undeclared identifier
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2146: syntax error : missing ';' before identifier 'to'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2065: 'to' : undeclared identifier
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2146: syntax error : missing ';' before identifier 'study'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2065: 'study' : undeclared identifier
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2143: syntax error : missing ';' before 'string'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2146: syntax error : missing ';' before identifier 'hours'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2065: 'hours' : undeclared identifier
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2143: syntax error : missing ';' before 'for'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2061: syntax error : identifier 'the'
+     1>f:\ \belajarcontoh2\belajarcontoh2\project2.cpp(15): error C2001: newline in constant
+     1>Done Building Project "F:\ \belajarcontoh2\belajarcontoh2\belajarcontoh2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.62
